@@ -1,8 +1,5 @@
-import { createBrowserRouter } from "react-router-dom";
-const LoggedInRouter = createBrowserRouter([
-  {
-    path: "/",
-  },
-]);
+function LoggedInRouter() {
+  return null;
+}
 
 export default LoggedInRouter;
